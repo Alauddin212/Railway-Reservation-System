@@ -1,2 +1,6 @@
 # Railway-Reservation-System
-A Java-based Railway Reservation System with login, ticket booking, and cancellation features. Implemented using core Java, OOP concepts, and file/data handling.
+Developed a Java-based Railway Reservation System with booking and cancellation modules.
+Implemented file handling/database connectivity for secure data storage.
+Designed user-friendly menus using OOP principles.
+Added input validation to ensure accurate ticket processing.
+Tested all modules thoroughly for smooth and reliable performance.
